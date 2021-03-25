@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/zsounder/zgo/logger"
+	"github.com/ninghf/zgo/logger"
 )
 
 type FuncConfigLoader func(string) error

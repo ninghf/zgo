@@ -6,7 +6,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/zsounder/zgo/logger"
+	"github.com/ninghf/zgo/logger"
 )
 
 type ServiceIF interface {
